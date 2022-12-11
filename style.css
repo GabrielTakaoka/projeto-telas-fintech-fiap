@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+    background-color: rgb(39, 39, 39);
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    background-color: rgb(39, 39, 39);
+    padding-top: 30px;
+}
+.container>h1{
+    color: rgb(182, 7, 59);
+}
+.form-label{
+    color: rgb(255, 255, 255);
+}
+.form-control{
+    border-radius: 30px;
+    border: none;
+}
+.form-check-label{
+    color: rgb(255, 255, 255);
+}
+.btn{
+    margin-bottom: 10px;
+    background-color: rgb(99, 99, 99);
+    border-radius: 20px;
+    border: none;
+}
+header{
+    margin-top: 300px;
+}
+.welcome{
+    color: white;
+}
+.welcome>h3{
+    font-size: 20px;
+}
+.welcome>h1{
+    color: rgb(182, 7, 59);
+    font-size: 60px;
+}
+.btnInicio{
+    margin-top: 50px;
+}
+#login{
+    width: 200px;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+}
+#cadastrar{
+    margin-top: 20px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+}
+#login:hover{
+    background-color: rgb(182, 7, 59);
+    color: white;
+}
+#cadastrar:hover{
+    background-color: rgb(182, 7, 59);
+    color: white;
+}
+footer{
+    margin-top: 200px;
+    color: white;
+}
